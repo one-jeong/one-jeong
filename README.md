@@ -3,7 +3,7 @@
 
 </div>
 
-### ML Engineer
+### Machine Learning Engineer
 - 2021.03 ~ ML Engineer in Social Safety industry(Computer Vision - Object detection, Tracking)
 
 
