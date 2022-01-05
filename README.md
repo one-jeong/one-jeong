@@ -3,8 +3,8 @@
 
 </div>
 
-### Machine Learning Engineer
-- 2021.03 ~ ML Engineer in Social Safety industry(Computer Vision - Object detection, Tracking)
+### Introduce
+- 2021.03 ~ Machine Learning Engineer in Social Safety industry(Computer Vision - Object detection, Tracking)
 
 
 ### Interests
