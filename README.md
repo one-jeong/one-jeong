@@ -1,5 +1,5 @@
 <div align=center>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=one-jeong.one-jeong)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=away.one-jeong)
 
 </div>
 
