@@ -2,7 +2,7 @@
 
 
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=one-jeong.one-jeong)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=one-jeong.one-jeong) -->
 
 ### Introduce
 - 2021.03 ~ Machine Learning Engineer in Social Safety industry(Computer Vision - Object detection, Tracking)
