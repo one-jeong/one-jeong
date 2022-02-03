@@ -1,7 +1,8 @@
 <div align=center>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=away.one-jeong)
+
 
 </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=away.one-jeong)
 
 ### Introduce
 - 2021.03 ~ Machine Learning Engineer in Social Safety industry(Computer Vision - Object detection, Tracking)
